@@ -1,3 +1,7 @@
 
 master change
 3rd change master
+
+
+
+master has changed during bug fix
