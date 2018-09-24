@@ -5,3 +5,7 @@ master change
 
 
 master has changed during bug fix
+
+
+
+master has changed during my fork process
